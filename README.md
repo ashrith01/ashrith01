@@ -1,7 +1,7 @@
-### 👋 Hi, I’m @Ashrith
-### 👯 I’m looking to collaborate on software based companies to improve my skills
-### 🌱 I’m currently learning AI(Artificial Intelligence).
-### 📫 How to reach me ashrith.vadde@gmail.com
+## 👋 Hi, I’m @Ashrith
+## 👯 I’m looking to collaborate on software based companies to improve my skills
+## 🌱 I’m currently learning AI(Artificial Intelligence).
+## 📫 How to reach me ashrith.vadde@gmail.com
 
 <!--
 **ashrith01/ashrith01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
